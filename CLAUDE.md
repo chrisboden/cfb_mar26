@@ -19,7 +19,7 @@ Your first action is to read BOOTSTRAP.md to see if the necessary set up steps h
 
 ## CLI Path
 
-Arduino CLI Path: /opt/homebrew/bin/arduino-cli
+Arduino CLI Path: <eg /opt/homebrew/bin/arduino-cli>
 
 ## FLASHING
 
